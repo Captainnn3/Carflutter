@@ -41,48 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBfo7gm0fEsu8rOtvrA1MBRYkeZvCRqu0A',
-    appId: '1:715094877913:web:5ecbf8cb09d7dd671240c8',
-    messagingSenderId: '715094877913',
-    projectId: 'food-1294e',
-    authDomain: 'food-1294e.firebaseapp.com',
-    storageBucket: 'food-1294e.firebasestorage.app',
-    measurementId: 'G-41C5Q9NM6E',
+    apiKey: 'AIzaSyAM0M0gWITTTptoOiiErxh4xyM492R3rp8',
+    appId: '1:363826705143:web:143d8e0d7022dbd6f619f2',
+    messagingSenderId: '363826705143',
+    projectId: 'tain-6d50f',
+    authDomain: 'tain-6d50f.firebaseapp.com',
+    storageBucket: 'tain-6d50f.firebasestorage.app',
+    measurementId: 'G-GE69VYZ4F9',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBetjgxjmF2SDXoL-cb51BXGM9xvHjhgDo',
-    appId: '1:715094877913:android:c2c6fe352d6fc86c1240c8',
-    messagingSenderId: '715094877913',
-    projectId: 'food-1294e',
-    storageBucket: 'food-1294e.firebasestorage.app',
+    apiKey: 'AIzaSyAPiGLHlJ1vEfPqpyKEqc15RjhaFEB5Q0I',
+    appId: '1:363826705143:android:0d11209e9be39e1df619f2',
+    messagingSenderId: '363826705143',
+    projectId: 'tain-6d50f',
+    storageBucket: 'tain-6d50f.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDFmVBw6c0gPyjgyFDEif_ayidKMhpIqeE',
-    appId: '1:715094877913:ios:cba2f5a65b42d7461240c8',
-    messagingSenderId: '715094877913',
-    projectId: 'food-1294e',
-    storageBucket: 'food-1294e.firebasestorage.app',
+    apiKey: 'AIzaSyD0vi2RYn_AeeaWsbOE94gK5AMHRY2jd9I',
+    appId: '1:363826705143:ios:2c5f84653c8bf37af619f2',
+    messagingSenderId: '363826705143',
+    projectId: 'tain-6d50f',
+    storageBucket: 'tain-6d50f.firebasestorage.app',
     iosBundleId: 'com.example.flutterApplication4',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDFmVBw6c0gPyjgyFDEif_ayidKMhpIqeE',
-    appId: '1:715094877913:ios:cba2f5a65b42d7461240c8',
-    messagingSenderId: '715094877913',
-    projectId: 'food-1294e',
-    storageBucket: 'food-1294e.firebasestorage.app',
+    apiKey: 'AIzaSyD0vi2RYn_AeeaWsbOE94gK5AMHRY2jd9I',
+    appId: '1:363826705143:ios:2c5f84653c8bf37af619f2',
+    messagingSenderId: '363826705143',
+    projectId: 'tain-6d50f',
+    storageBucket: 'tain-6d50f.firebasestorage.app',
     iosBundleId: 'com.example.flutterApplication4',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBfo7gm0fEsu8rOtvrA1MBRYkeZvCRqu0A',
-    appId: '1:715094877913:web:aba280eecc1a2b7b1240c8',
-    messagingSenderId: '715094877913',
-    projectId: 'food-1294e',
-    authDomain: 'food-1294e.firebaseapp.com',
-    storageBucket: 'food-1294e.firebasestorage.app',
-    measurementId: 'G-FK8EJ6XN73',
+    apiKey: 'AIzaSyAM0M0gWITTTptoOiiErxh4xyM492R3rp8',
+    appId: '1:363826705143:web:b44c01ce72528cfaf619f2',
+    messagingSenderId: '363826705143',
+    projectId: 'tain-6d50f',
+    authDomain: 'tain-6d50f.firebaseapp.com',
+    storageBucket: 'tain-6d50f.firebasestorage.app',
+    measurementId: 'G-PFC7KGTY7H',
   );
+
 }

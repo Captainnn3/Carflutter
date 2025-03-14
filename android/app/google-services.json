@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "715094877913",
-    "project_id": "food-1294e",
-    "storage_bucket": "food-1294e.firebasestorage.app"
+    "project_number": "363826705143",
+    "project_id": "tain-6d50f",
+    "storage_bucket": "tain-6d50f.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:715094877913:android:c2c6fe352d6fc86c1240c8",
+        "mobilesdk_app_id": "1:363826705143:android:0d11209e9be39e1df619f2",
         "android_client_info": {
           "package_name": "com.example.flutter_application_4"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBetjgxjmF2SDXoL-cb51BXGM9xvHjhgDo"
+          "current_key": "AIzaSyAPiGLHlJ1vEfPqpyKEqc15RjhaFEB5Q0I"
         }
       ],
       "services": {
